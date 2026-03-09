@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Reagan James P. Mabawad
+# 👋 Hi, I’m Reagan Mabawad
 
 I’m a **Software Developer** building full-stack and frontend web applications.  
 I enjoy turning designs into **clean, responsive interfaces** and connecting **frontend and backend systems**.
